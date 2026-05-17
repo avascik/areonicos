@@ -1,4 +1,5 @@
 # areonic
+![screenshot](https://raw.githubusercontent.com/avascik/areonicos/refs/heads/main/screenshot.png)
 a minimal linux distro with finit as it main init system, and no gnu (musl as libc, busybox as its core utils, limine as its bootloader etc)
 
 ## where's the source?
